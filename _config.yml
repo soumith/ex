@@ -9,13 +9,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : chex
-tagline: chocolate and excess
+tagline : chocolate and excess
 author : Soumith Chintala
-  name : Soumith Chintala
-  email : soumith-yesremovethis@gmail.com
-  github : soumith
-  twitter : amiconfusediam
-  feedburner : 
+name : Soumith Chintala
+email : soumith-yesremovethis@gmail.com
+github : soumith
+twitter : amiconfusediam
+feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
