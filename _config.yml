@@ -8,14 +8,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : chex
+tagline: chocolate and excess
+author : Soumith Chintala
+  name : Soumith Chintala
+  email : soumith-yesremovethis@gmail.com
+  github : soumith
+  twitter : amiconfusediam
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://soumith.ch/ex/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -36,7 +36,7 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  # CNAME (http://yourcustomdomain.com)
+  CNAME (http://soumith.ch/ex)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
@@ -128,3 +128,4 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+markdown: kramdown
