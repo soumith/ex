@@ -10,7 +10,7 @@ Today someone asked on Google+
 
 > Hello, when computing the gradients CNN,  the weights need to be rotated, Why ? 
 
-![question](question.png "Question")
+![question](assets/post1/question.png "Question")
 
 
 I had the same question when I was pouring through code back in the day, so I wanted to clear it up for people once and for all.
