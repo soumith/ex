@@ -44,7 +44,7 @@ Output
 ###Section 3: full convolution(180 degree rotated filter, output)
 ![section3](http://soumith.ch/ex/assets/post1/section3.png "section3")
 
-As you can see, the calculation for the first three elements in section 2 is the same as the first three figures in section 3.
+**As you can see, the calculation for the first three elements in section 2 is the same as the first three figures in section 3.**
 
 Hope this helps!
 
