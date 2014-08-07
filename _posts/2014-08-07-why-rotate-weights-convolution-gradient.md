@@ -27,24 +27,21 @@ Here's a detailed explanation with visualization!
 
 Input
 ![question](http://soumith.ch/ex/assets/post1/input.png "input")
-
 Kernel
 ![kernel](http://soumith.ch/ex/assets/post1/kernel.png "kernel")
-
 Output
 ![output](http://soumith.ch/ex/assets/post1/output.png "output")
 
 
-
-Section 1: valid convolution (input, kernel)
+###Section 1: valid convolution (input, kernel)
 ![section1](http://soumith.ch/ex/assets/post1/section1.png "section1")
 
 
-Section 2: gradient w.r.t. input of valid convolution (input, kernel) = weighted contribution of each input location w.r.t. gradient of Output
+###Section 2: gradient w.r.t. input of valid convolution (input, kernel) = weighted contribution of each input location w.r.t. gradient of Output
 ![section2](http://soumith.ch/ex/assets/post1/section2.png "section2")
 
 
-Section 3: full convolution(180 degree rotated filter, output)
+###Section 3: full convolution(180 degree rotated filter, output)
 ![section3](http://soumith.ch/ex/assets/post1/section3.png "section3")
 
 As you can see, the calculation for the first three elements in section 2 is the same as the first three figures in section 3.
