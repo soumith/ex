@@ -19,7 +19,7 @@ Simple answer:
 
 This is just a efficient and clean way of writing things for:
 
-> Computing the gradient of a **valid** convolution w.r.t. the inputs.
+> Computing the gradient of a **valid** 2D convolution w.r.t. the inputs.
 
 _There is no magic here_
 
