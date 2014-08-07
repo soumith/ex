@@ -1,6 +1,7 @@
 ---
 layout: post
-tagline: "Why do we rotate weights when computing the gradients in a convolution layer of a convolution network?"
+title: "Why do we rotate weights when computing the gradients in a convolution layer of a convolution network?"
+tagline: ""
 category: pages
 tags: [beginner, deeplearning, convnets, convolutions, gradient]
 ---
